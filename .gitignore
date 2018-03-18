@@ -1,0 +1,11 @@
+moc*
+hw8
+hw8.pro
+Makefile
+*.pro
+*.o
+login_*
+databasetemp*
+heap
+heapTest*
+extracredit*
